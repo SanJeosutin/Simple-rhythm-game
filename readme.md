@@ -1,3 +1,2 @@
-#### Resources:
-> https://deep-fold.itch.io/space-background-generator
-> 
+# Simple Rhythm 
+Small rhythm game that utilised Phaser3 js Game Framework
